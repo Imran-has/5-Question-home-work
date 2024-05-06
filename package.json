@@ -1,8 +1,9 @@
 {
-  "name": "function",
+  "name": "q2",
   "version": "1.0.0",
   "description": "",
-  "main": "Q1.js",
+  "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
